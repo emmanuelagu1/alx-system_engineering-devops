@@ -1,2 +1,2 @@
 #!/bin/bash
-chown –h vincent:staff  _hello
+101-symbolic_link_permissions
